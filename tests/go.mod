@@ -3,7 +3,7 @@ module github.com/pbs/terraform-aws-namespace-module
 go 1.20
 
 require (
-	github.com/aws/aws-sdk-go v1.44.122
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/gruntwork-io/terratest v0.40.22
 	github.com/stretchr/testify v1.8.3
 )
